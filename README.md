@@ -3,4 +3,4 @@
   Hi there, I'm Sivasakthi
 </h1>
 
-<img src="https://github.com/sivasakthiqatester18207/sivasakthiqatester18207/blob/main/GIT%20PROFILE.jpg" alt="Coding at night" align="right" />
+<img src="https://www.figma.com/proto/kxr362rcQlDiisKqx7dQst/GIT-PROFILE?node-id=1-2&t=Poe6yZQDOmXhMuM1-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1" alt="Coding at night" align="right" />
