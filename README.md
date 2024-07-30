@@ -3,4 +3,4 @@
   Hi there, I'm Sivasakthi
 </h1>
 
-<img src="https://github.com/sivasakthiqatester18207/sivasakthiqatester18207/blob/main/GIT%20PROFILE.fig" alt="Coding at night" align="right" />
+<img src="https://github.com/sivasakthiqatester18207/sivasakthiqatester18207/blob/main/GIT%20PROFILE.gif" alt="Coding at night" align="right" />
