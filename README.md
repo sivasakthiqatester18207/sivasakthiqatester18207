@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+   
 </head>
 <body>
-    <h1 align="center">
+       <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello" height=30 width=30/>
   Hi there, I'm Sivasakthi
 </h1>
-
-<embed src="file:///D:/Videos/Animes/Dragon%20ball%20movies/GIT%20PROFILE.pdf" type="application/pdf">
+    <iframe src="file:///C:/Users/Sivasakthi%20R/My%20git%20profile%20uploads/GIT%20PROFILE.pdf" width="600" height="400"></iframe>
 </body>
 </html>
+
 
 
 <!--
