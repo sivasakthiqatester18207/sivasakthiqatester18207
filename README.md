@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Embed PDF</title>
 </head>
 <body>
       <h1 align="center">
