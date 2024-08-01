@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Embed PDF</title>
+    <title></title>
 </head>
 <body>
     <h1 align="center">
@@ -9,7 +9,7 @@
   Hi there, I'm Sivasakthi
 </h1>
 
-<embed src="https://github.com/sivasakthiqatester18207/sivasakthiqatester18207/blob/main/GIT%20PROFILE.pdf" type="application/pdf">
+<embed src="file:///D:/Videos/Animes/Dragon%20ball%20movies/GIT%20PROFILE.pdf" type="application/pdf">
 </body>
 </html>
 
