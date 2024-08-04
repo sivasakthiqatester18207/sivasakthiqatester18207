@@ -20,6 +20,26 @@
   <!-- <li>Currently learning Selenium using Python &nbsp;📱</li> -->
 </ul>
 &nbsp;
+
+<!-- Contact -->
+<h3>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=60 height=30 />
+  Connect with me at
+</h3>
+  &emsp;&emsp;
+  <a href="https://www.linkedin.com/in/sivasakthi-rajendran/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sivasakthi's LinkedIn Profile" height=30 width=30 />
+ </a>
+ 
+  <a href="https://github.com/sivasakthiqatester18207/sivasakthiqatester18207/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Sivasakthi's GitHub Profile" height=30 width=30 />
+  </a>
+  
+   <a href="https://www.instagram.com/sivasakthi_18207/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sivasakthi's Instagram Profile" height=30 width=30 />
+  </a>
+</p>
+&nbsp;
       
 </body>
 </html>
