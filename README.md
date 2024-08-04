@@ -16,7 +16,7 @@
 </h3>
 <ul>
   <li>A Test Engineer &nbsp;💻</li>
-  <li>Junior Software at Firebee Techno Services &nbsp;</li>
+  <li>Junior Software Tester at Firebee Techno Services &nbsp;</li>
   <!-- <li>Currently learning Selenium using Python &nbsp;📱</li> -->
 </ul>
 &nbsp;
